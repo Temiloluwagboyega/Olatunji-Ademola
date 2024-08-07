@@ -1,0 +1,16 @@
+.elementor-editor-active .mil-top-panel,
+.elementor-editor-active .mil-footer-1,
+.elementor-editor-active .mil-footer-2 {
+	display: none !important;
+}
+.elementor-editor-active .mil-content {
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+}
+
+.elementor-editor-active .type-hf_templates .mil-top-panel {
+	display: block !important;
+	position: relative;
+    height: auto;
+    background: transparent;
+}
